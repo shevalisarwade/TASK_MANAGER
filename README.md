@@ -10,7 +10,7 @@ A MERN application for basic tasks management
 - [Prerequisites](#prerequisites)
 - [Installation and setup](#installation-and-setup)
 - [Backend API](#backend-api)
-- [frontend pages](#frontend-pages)
+- [frontend pages](#frontend-pages)  
 - [npm scripts](#npm-scripts)
 
 
