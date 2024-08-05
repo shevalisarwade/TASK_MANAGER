@@ -97,7 +97,8 @@ Following are the major dev-dependencies of the project:
 3. Start the application
 
    ```sh
-   npm run dev (you will redirect the link http://localhost:3000)
+   npm run dev (you will redirect the link)
+    http://localhost:3000
    ```
 
 ## Backend API
